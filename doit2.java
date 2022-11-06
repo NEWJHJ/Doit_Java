@@ -25,7 +25,7 @@ public class doit2 {
         System.out.print("*");
       }
       System.out.println();
-    }
+    } // ???
 
 
 
